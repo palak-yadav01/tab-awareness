@@ -1,5 +1,3 @@
-<img width="1174" height="1012" alt="Screenshot 2026-03-11 113917" src="https://github.com/user-attachments/assets/e868e7a4-b73a-4f3c-b43b-8d4457d4de69" />
-<img width="1149" height="1002" alt="Screenshot 2026-03-11 113847" src="https://github.com/user-attachments/assets/d8757103-3a6d-49eb-9b47-a577ccc68d13" />
 # 🧠 Tab Awareness System
 
 A full-stack browser productivity tool that tracks your tab usage 
@@ -25,4 +23,5 @@ and helps you identify distraction patterns and reduce tab hoarding.
 4. Open `http://localhost:5173`
 
 ## Screenshots
-*(Add a screenshot of your dashboard here)*
+<img width="1149" height="1002" alt="Screenshot 2026-03-11 113847" src="https://github.com/user-attachments/assets/d8757103-3a6d-49eb-9b47-a577ccc68d13" />
+<img width="1174" height="1012" alt="Screenshot 2026-03-11 113917" src="https://github.com/user-attachments/assets/e868e7a4-b73a-4f3c-b43b-8d4457d4de69" />
